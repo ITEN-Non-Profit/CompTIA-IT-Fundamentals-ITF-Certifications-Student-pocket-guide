@@ -59,7 +59,7 @@ Do not memorize answer letters. Focus on why one option fits the scenario and wh
 
 | File | Purpose |
 |---|---|
-| [`CompTIA_ITF_FC0-U61_Publication_Edition.md`](CompTIA_ITF_FC0-U61_Publication_Edition.md) | Complete publication and study guide |
+| [`CompTIA_ITF_FC0-U61_Student_Pocket_Guide.md`](CompTIA_ITF_FC0-U61_Student_Pocket_Guide.md) | Complete Self Study Pocket Guide |
 | [`README.md`](README.md) | Repository introduction and usage instructions |
 | [`LICENSE`](LICENSE) | MIT License for the original repository content |
 
