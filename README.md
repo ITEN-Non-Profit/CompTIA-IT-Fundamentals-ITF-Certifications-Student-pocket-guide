@@ -2,7 +2,14 @@
 
 [![Format](https://img.shields.io/badge/format-Markdown-24292F)](./guide/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![CompTIA IT Fundamentals (ITF+) FC0-U61 Student Pocket Guide](assets/graphics/itf-guide-readme-social-hero.png)
 
+## Our mission and vision
+
+<p align="center">
+  <img src="assets/graphics/it-education-nepal-mission.png" alt="Mission of IT Education Nepal: Make practical IT education clear, accessible, and useful for students, beginners, and non-technical professionals." width="49%">
+  <img src="assets/graphics/it-education-nepal-vision.png" alt="Vision of IT Education Nepal: A world where every learner can understand technology, use it safely, and build a path into IT." width="49%">
+</p>
 A beginner-friendly, objective-aligned pocket guide for the CompTIA IT Fundamentals (ITF+) FC0-U61 curriculum.
 
 The guide explains computing concepts, infrastructure, applications, software development, databases, and security in plain English. It includes practical checks, mini-scenarios, hands-on labs, review questions, skills simulations, a 75-question readiness assessment, answer rationales, acronyms, and a final objective-coverage checklist.
