@@ -16,7 +16,7 @@ The guide explains computing concepts, infrastructure, applications, software de
 
 ## Read the book
 
-**[Open the complete CompTIA_ITF_FC0-U61_Student pocket guide.md](./CompTIA_ITF_FC0-U61_Student pocket guide.md)**
+**[CompTIA IT Fundamentals (ITF+) FC0-U61 Student Pocket Guide](CompTIA_ITF_FC0-U61_Student%20pocket%20guide.md)**
 
 You can read the Markdown file directly on GitHub, download it for offline study, or print it from a Markdown editor that supports tables and code blocks.
 
