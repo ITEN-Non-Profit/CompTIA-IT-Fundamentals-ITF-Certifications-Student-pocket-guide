@@ -1,14 +1,15 @@
 # CompTIA IT Fundamentals (ITF+) FC0-U61 Student Pocket Guide
 
+[![Format](https://img.shields.io/badge/format-Markdown-24292F)](./guide/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A beginner-friendly, objective-aligned pocket guide for the archived CompTIA IT Fundamentals (ITF+) FC0-U61 curriculum.
+A beginner-friendly, objective-aligned pocket guide for the CompTIA IT Fundamentals (ITF+) FC0-U61 curriculum.
 
 The guide explains computing concepts, infrastructure, applications, software development, databases, and security in plain English. It includes practical checks, mini-scenarios, hands-on labs, review questions, skills simulations, a 75-question readiness assessment, answer rationales, acronyms, and a final objective-coverage checklist.
 
 ## Read the book
 
-**[Open the complete student pocket guide](CompTIA_ITF_FC0-U61_Publication_Edition.md)**
+**[Open the complete student pocket guide](CompTIA_ITF_FC0-U61_Student_Pocket_Guide.md)**
 
 You can read the Markdown file directly on GitHub, download it for offline study, or print it from a Markdown editor that supports tables and code blocks.
 
