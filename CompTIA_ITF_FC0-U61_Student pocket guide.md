@@ -1,6 +1,6 @@
 # CompTIA IT Fundamentals (ITF+) FC0-U61
 
-## Student pocket guide
+## Student Pocket Guide
 
 > A beginner-friendly guide to computing, infrastructure, software, development, databases, and security
 
