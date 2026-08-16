@@ -59,9 +59,9 @@ Do not memorize answer letters. Focus on why one option fits the scenario and wh
 
 | File | Purpose |
 |---|---|
-| [`CompTIA_ITF_FC0-U61_Student pocket guide.md`](CompTIA_ITF_FC0-U61_Student pocket guide.md) | Complete Self Study Pocket Guide |
-| [`README.md`](README.md) | Repository introduction and usage instructions |
-| [`LICENSE`](LICENSE) | MIT License for the original repository content |
+| [CompTIA IT Fundamentals (ITF+) FC0-U61 Student Pocket Guide](CompTIA_ITF_FC0-U61_Student%20pocket%20guide.md) | Complete self-study pocket guide |
+| [README.md](README.md) | Repository introduction and usage instructions |
+| [LICENSE](LICENSE) | MIT License for the original repository content |
 
 ## Educational integrity
 
