@@ -9,7 +9,7 @@ The guide explains computing concepts, infrastructure, applications, software de
 
 ## Read the book
 
-**[Open the complete CompTIA_ITF_FC0-U61_Student pocket guide.md](.CompTIA_ITF_FC0-U61_Student pocket guide.md)**
+**[Open the complete CompTIA_ITF_FC0-U61_Student pocket guide.md](./CompTIA_ITF_FC0-U61_Student pocket guide.md)**
 
 You can read the Markdown file directly on GitHub, download it for offline study, or print it from a Markdown editor that supports tables and code blocks.
 
